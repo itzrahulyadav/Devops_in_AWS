@@ -120,3 +120,4 @@ sudo service nginx start
 ![Screenshot (124)](https://user-images.githubusercontent.com/65400893/227292057-cf7a7c7e-d522-472c-b3f2-b52df44e1a83.png)
 
 
+![Screenshot (126)](https://user-images.githubusercontent.com/65400893/227322202-032c224e-c6bc-4113-8d32-9a0080ccbfa3.png)
