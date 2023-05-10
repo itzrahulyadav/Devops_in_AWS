@@ -121,3 +121,12 @@ sudo service nginx start
 
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/65400893/227322202-032c224e-c6bc-4113-8d32-9a0080ccbfa3.png)
+
+
+CodeDeploy using ECS
+
+- Create a cluster
+- Give name to the container
+- Provide the repository detail.
+- Make sure the artifacts are set to buildartifact.
+- In the image definitions file in the name provide the value of the container that you created and in the imageUri give the name of the docker repository image name.
